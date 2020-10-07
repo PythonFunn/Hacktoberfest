@@ -54,9 +54,3 @@ What kinds of pull requests count toward earning the Hacktoberfest shirt?
 Any pull request made to a public repo on GitHub will count. The pull request must contain commits you personally made yourself — not automated commits from bots.
 
 You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
-
-References
-Hacktoberfest presented by DigitalOcean
-A participation guide for Hacktoberfest
-What is Hacktoberfest and How can a beginner contribute?
-Hacktoberfest : How you can get your free shirt — even if you’re new to coding
