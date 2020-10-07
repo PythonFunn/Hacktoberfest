@@ -24,11 +24,15 @@ Expert:
  
 Open source is changing the world - one pull request at a time.
 
-HacktoberFest-2020
-What is Hacktoberfest?
-Why Should I Contribute?
-What Can I Contribute?
-How to Contribute in this repository.
+-HacktoberFest-2020
+
+-What is Hacktoberfest?
+
+-Why Should I Contribute?
+
+-What Can I Contribute?
+
+-How to Contribute in this repository.
 
 
 What is Hacktoberfest?
